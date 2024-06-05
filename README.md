@@ -13,5 +13,6 @@ Video de Demonstração:
 
 
 Planilha Excel lida:
+
 ![image](https://github.com/rodrigorosadini/Projeto-de-Automa-o-Python/assets/104693469/c036b5e5-be50-4917-b284-8b682bc48aff)
 
